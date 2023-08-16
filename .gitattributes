@@ -1,5 +1,6 @@
-# Auto detect text files and perform LF normalization
+
 *.csharp linguist-detactable=true
 *.css linguist-detactable=false
+*.html linguist-detectable=true
 *.* linguist-detectable=false
 *.js linguist-detactable=false

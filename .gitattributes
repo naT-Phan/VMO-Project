@@ -1,5 +1,0 @@
-
-*.csharp linguist-detactable=true
-*.css linguist-detactable=false
-*.html linguist-detectable=true
-*.js linguist-detactable=false

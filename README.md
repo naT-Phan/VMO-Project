@@ -12,9 +12,10 @@ Chức năng:
       - Xem danh sách nhân viên theo từng phòng ban
       - Quản lý lương
       - Cập nhật lương cho nhân viên, quá trính tăng/giảm lương của nhân viên
-      
       Client:
       - Đăng nhập
-      - Cập nhật thông tin các nhân
+      - Cập nhật thông tin cá nhân
       - Xem bảng lương
+
+
     
